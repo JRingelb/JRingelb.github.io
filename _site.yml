@@ -17,14 +17,18 @@ navbar:
       menu:
         - text: BASF Case Study
           href: pdf/Differentiating On Service Innovation at BASF.pdf.pdf
-        - text: Teaching Notes
+        - text: BASF Teaching Notes
           href: pdf/BASF Teaching Notes.docx.pdf
-        - text: Discussion Notes
+        - text: BASF Discussion Notes
+          href: pdf/Differentiating On Service Innovation at BASF Discussion Notes.pdf
+        - text: Strategies and Time Allocation of Commercial Producers 
+          href: pdf/Differentiating On Service Innovation at BASF Discussion Notes.pdf
+        - text: "@Risk Tutorial and Guide"
           href: pdf/Differentiating On Service Innovation at BASF Discussion Notes.pdf
     - text: "Blogs"
       menu:
         - text: No Time To Pie
-          href: pdf/Differentiating On Service Innovation at BASF.pdf
+          href: No_Time_To_Pie.html
         - text: But Does it make Toast?
           href: pdf/Resume.pdf
     - text: "Projects"

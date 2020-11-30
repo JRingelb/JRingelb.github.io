@@ -1,0 +1,17 @@
+---
+title: "No Time To Pie"
+description: |
+  With the holiday season, I thought I would take a moment to encourage healthy eating and graph choice.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notes on how to make a better pie chart
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+<iframe width="560" height="315" src="https://speakerdeck.com/cherdarchuk/data-looks-better-naked-pie-chart-edition" frameborder="0" allowfullscreen></iframe>
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
