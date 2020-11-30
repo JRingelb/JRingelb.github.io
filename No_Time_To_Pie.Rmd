@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-<iframe width="560" height="315" src="https://speakerdeck.com/cherdarchuk/data-looks-better-naked-pie-chart-edition" frameborder="0" allowfullscreen></iframe>
+<script async class="speakerdeck-embed" data-id="b734d3b027d80132ab90668b8ed88715" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
