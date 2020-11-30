@@ -1,7 +1,8 @@
 ---
 title: "Josiah Ringelberg"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to my website. I hope you enjoy it! Mathematician focused on developing reproducible analytical models using innovative data science tools. Recently focused on incorporating automation, statistical rigor, and transparency to data analytics and corporate reporting. I utilize R scripting to elicit and convey new insights and understanding to executive management through a systematic approach to analysis. I am always eager to learn, and enjoy passing my knowledge on to others. Please do not hesitate to reach out!
+
 site: distill::distill_website
 ---
 

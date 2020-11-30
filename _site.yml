@@ -9,6 +9,31 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "About Me"
+    - text: "Resume"
       href: pdf/Resume.pdf
+    - text: "Thesis"
+      href: pdf/Thesis - Selected Chapters.pdf
+    - text: "Articles"
+      menu:
+        - text: BASF Case Study
+          href: pdf/Differentiating On Service Innovation at BASF.pdf.pdf
+        - text: Teaching Notes
+          href: pdf/BASF Teaching Notes.docx.pdf
+        - text: Discussion Notes
+          href: pdf/Differentiating On Service Innovation at BASF Discussion Notes.pdf
+    - text: "Blogs"
+      menu:
+        - text: No Time To Pie
+          href: pdf/Differentiating On Service Innovation at BASF.pdf
+        - text: But Does it make Toast?
+          href: pdf/Resume.pdf
+    - text: "Projects"
+      menu:
+        - text: School Utility Usage
+          href: pdf/Differentiating On Service Innovation at BASF.pdf
+        - text: Farm Subsidy Payouts
+          href: pdf/Resume.pdf
+        - text: Auto Generate Resumes
+          href: pdf/Resume.pdf
 output: distill::distill_article
+
