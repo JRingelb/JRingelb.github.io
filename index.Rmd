@@ -9,7 +9,6 @@ description: |
   - If you want access to my deepest darkest secret - [click here](https://www.youtube.com/watch?v=fcZXfoB2f70)
   
   Thanks for stopping in. I hope you find something interesting!
-toc: yes
 site: distill::distill_website
 ---
 
