@@ -6,23 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nUgh, I hate self stories…. Like really hate them. I’m just gonna copy the biograph of some british guy and come back later to fill this section out.\r\nGilbert Keith Chesterton KC*SG (29 May 1874 – 14 June 1936) was an English writer,[2] philosopher, lay theologian, and literary and art critic. He has been referred to as the “prince of paradox”.[3] Time magazine observed of his writing style: “Whenever possible Chesterton made his points with popular sayings, proverbs, allegories—first carefully turning them inside out.”[4]\r\nChesterton created the fictional priest-detective Father Brown,[5] and wrote on apologetics. Even some of those who disagree with him have recognised the wide appeal of such works as Orthodoxy and The Everlasting Man.[4][6] Chesterton routinely referred to himself as an “orthodox” Christian, and came to identify this position more and more with Catholicism, eventually converting to Catholicism from High Church Anglicanism. Biographers have identified him as a successor to such Victorian authors as Matthew Arnold, Thomas Carlyle, Cardinal John Henry Newman, and John Ruskin.[7] On his contributions, T. S. Eliot wrote:\r\nHe was importantly and consistently on the side of the angels. Behind the Johnsonian fancy-dress, so reassuring to the British public, he concealed the most serious and revolutionary designs—concealing them by exposure … Chesterton’s social and economic ideas…were fundamentally Christian and Catholic. He did more, I think, than any man of his time—and was able to do more than anyone else, because of his particular background, development and abilities as a public performer—to maintain the existence of the important minority in the modern world. He leaves behind a permanent claim upon our loyalty, to see that the work that he did in his time is continued in ours.[8]\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T07:49:21-05:00"
+      "last_modified": "2020-12-02T18:50:09-05:00"
     },
     {
       "path": "index.html",
       "title": "Josiah Ringelberg",
-      "description": "Welcome to my website. I hope you enjoy it! Mathematician focused on developing reproducible analytical models using innovative data science tools. Recently focused on incorporating automation, statistical rigor, and transparency to data analytics and corporate reporting. I utilize R scripting to elicit and convey new insights and understanding to executive management through a systematic approach to analysis. I am always eager to learn, and enjoy passing my knowledge on to others. Please do not hesitate to reach out!\n",
+      "description": "Welcome to my website. Here is where you'll find all the articles, blogs, or documents I have written or believe you won't be able to identify as plagiarized! <br><br>\n- If you're interested in collaboration or learning more about what I can bring to your company - check out the resume section! ! <br>\n- If you want to learn more about my approach to analytics, data science, and visualization - check out my blogs!! <br>\n- If you want to be disappointed in my analytical approaches like the adviser in my master's program - check out my thesis! <br>\n- If you want to plagiarize my work - check out my projects! (Note: I also would love hearing any improvements you may have for a project!) <br>\n- If you want access to my deepest darkest secret - [click here](https://www.youtube.com/watch?v=fcZXfoB2f70)\n\nThanks for stopping in. I hope you find something interesting!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T07:49:22-05:00"
+      "contents": "\r\n\r\nContents\r\n\r\n\r\nThe Majors of Me\r\nI Was Put Under New Management\r\nProbably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she’s watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor… In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!\r\nLoosing My Religion\r\nOkay, this is completely a mislabeled section, but how else would I get your attention while referencing R.E.M..\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-02T18:50:45-05:00"
     },
     {
       "path": "No_Time_To_Pie.html",
       "title": "No Time To Pie",
       "description": "With the holiday season, I thought I would take a moment to encourage healthy eating and graph choice.",
       "author": [],
-      "contents": "\r\nNotes on how to make a better pie chart\r\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\r\n\r\n\r\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T07:49:22-05:00"
+      "contents": "\r\nNotes on how to make a better pie chart\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-02T18:50:11-05:00"
     }
   ],
   "collections": []

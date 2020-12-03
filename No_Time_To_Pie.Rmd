@@ -10,8 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Notes on how to make a better pie chart
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-<iframe width="560" height="315" src="https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/5671e8bf816924fc22651410/5671eb2e816924fc22651bc9/1450306350612/devourThePie3.gif?format=original" frameborder="0" allowfullscreen></iframe>
+<iframe width="1004" height="753" src="https://www.youtube.com/embed/ApQk0ivtDRg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
