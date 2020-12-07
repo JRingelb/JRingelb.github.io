@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About Me"
 description: |
   Some additional details about the website
 ---
@@ -8,11 +8,10 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Ugh, I hate self stories.... Like really hate them. I'm just gonna copy the biograph of some british guy and come back later to fill this section out.
 
 
-Gilbert Keith Chesterton KC*SG (29 May 1874 – 14 June 1936) was an English writer,[2] philosopher, lay theologian, and literary and art critic. He has been referred to as the "prince of paradox".[3] Time magazine observed of his writing style: "Whenever possible Chesterton made his points with popular sayings, proverbs, allegories—first carefully turning them inside out."[4]
 
-Chesterton created the fictional priest-detective Father Brown,[5] and wrote on apologetics. Even some of those who disagree with him have recognised the wide appeal of such works as Orthodoxy and The Everlasting Man.[4][6] Chesterton routinely referred to himself as an "orthodox" Christian, and came to identify this position more and more with Catholicism, eventually converting to Catholicism from High Church Anglicanism. Biographers have identified him as a successor to such Victorian authors as Matthew Arnold, Thomas Carlyle, Cardinal John Henry Newman, and John Ruskin.[7] On his contributions, T. S. Eliot wrote:
-
-He was importantly and consistently on the side of the angels. Behind the Johnsonian fancy-dress, so reassuring to the British public, he concealed the most serious and revolutionary designs—concealing them by exposure ... Chesterton's social and economic ideas...were fundamentally Christian and Catholic. He did more, I think, than any man of his time—and was able to do more than anyone else, because of his particular background, development and abilities as a public performer—to maintain the existence of the important minority in the modern world. He leaves behind a permanent claim upon our loyalty, to see that the work that he did in his time is continued in ours.[8]
+https://www.datarobot.com/blog/drag-and-drop-is-not-enough/
+https://medium.com/@peter.salinas.ino
+https://towardsdatascience.com/ai-is-a-bubble-everyone-is-bad-at-data-science-f368e3efa342
+https://www.experfy.com/blog/bigdata-cloud/hiring-data-scientists-step-1-stop-looking-for-data-scientists/

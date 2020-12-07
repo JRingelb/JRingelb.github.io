@@ -30,9 +30,9 @@ knitr::opts_chunk$set(echo = FALSE)
 Probably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she's watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor... In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!
 
 
-## Loosing My Religion
+<!-- ## Loosing My Religion -->
 
-Okay, this is completely a mislabeled section, but how else would I get your attention while referencing [R.E.M.](https://www.youtube.com/watch?v=xwtdhWltSIg).
+<!-- Okay, this is completely a mislabeled section, but how else would I get your attention while referencing [R.E.M.](https://www.youtube.com/watch?v=xwtdhWltSIg). -->
 
 
 
