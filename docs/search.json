@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nhttps://www.datarobot.com/blog/drag-and-drop-is-not-enough/ https://medium.com/@peter.salinas.ino https://towardsdatascience.com/ai-is-a-bubble-everyone-is-bad-at-data-science-f368e3efa342 https://www.experfy.com/blog/bigdata-cloud/hiring-data-scientists-step-1-stop-looking-for-data-scientists/\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-11T12:32:40-05:00"
+      "last_modified": "2020-12-11T13:02:46-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to my website. Here is where you'll find all the articles, blogs, or documents I have written or believe you won't be able to identify as plagiarized! <br><br>\n- If you're interested in collaboration or learning more about what I can bring to your company - check out the resume section! ! <br>\n- If you want to learn more about my approach to analytics, data science, and visualization - check out my blogs!! <br>\n- If you want to be disappointed in my analytical approaches like the adviser in my master's program - check out my thesis! <br>\n- If you want to plagiarize my work - check out my projects! (Note: I also would love hearing any improvements you may have for a project!) <br>\n- If you want access to my deepest darkest secret - [click here](https://www.youtube.com/watch?v=fcZXfoB2f70)\n\nThanks for stopping in. I hope you find something interesting!\n",
       "author": [],
       "contents": "\r\nThe Majors of Me\r\nI Was Put Under New Management\r\nProbably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she’s watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor… In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-11T12:32:40-05:00"
+      "last_modified": "2020-12-11T13:02:47-05:00"
     },
     {
       "path": "No_Time_To_Pie.html",
@@ -22,7 +22,7 @@
       "description": "With the holiday season, I thought I would take a moment to encourage healthy eating and graph choice.",
       "author": [],
       "contents": "\r\n“Notes on how to make a better pie chart”\r\nHa! Again, a misleading headline has you thinking you’re gonna get some pie tips. But if you want those, turn on your basic british bakeoff reality tv show or whatever it is my wife watches, your not getting it here. Sorry Hugh Neutron, but this is the exact opposite of that. I’m here to dash your graph in the sky dreams. But don’t lose all hope, even if the dessert table is closed, the bar is open late (this will make sense later).\r\n\r\n\r\nfrom Imgflip Meme Generator\r\n\r\nBacking up my facts\r\nI wish I was the first to critisize the pie chart. It might have made me unique. I can only imagine how much time I could have spent looking down on peers who could not understand the conceptual inadequacies of a pie chart. Unfortunately, I did not think of this myself, but rather came accross an article a while and was like “ohhh, yeah… that makes sense. Pie charts suck.” Now that I have admitted that I am merely a messenger of the analytic gods, I can list those that came before. This will hopefully convince you that the messege is worth noting, even if the messenger is more renown for his memes than his insights.\r\nWith that in mind the following are several articles meant to persuade/bore you into banishing the pie chart from your corporate reporting: 1) Save the Pies for Dessert by Stephen Few 2) People, Please Stop Using Pie Charts by Bernard Marr\r\nNow some might suspect Bernard Marr as being biased, as his name is literally an anogram for Dear Bar Graph if you merely substitute two r’s an n and an m for the letters that spell graph, but I encourage you to look deeper. The ultimate flaw of the pie graph is the same one that drove every high school crush to reject my prom invitation… ultimately, theres something better.\r\nSo whats the Alternative?\r\nI’ll make this brief, because at this point you’re probably getting bored. Basically, pie charts don’t allow you to easily compare components and can distort analysis as people are generally better at processing information in lines rather than angles. Bar graphs can accomplish the same task as a a pie graph, but allow easy comparison of all components within the graph. The video below provides a humorous end to this blog.\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-11T12:32:41-05:00"
+      "last_modified": "2020-12-11T13:02:48-05:00"
     }
   ],
   "collections": []
