@@ -18,7 +18,7 @@ navbar:
     - text: "Articles"
       menu:
         - text: BASF Case Study
-          href: pdf/Differentiating On Service Innovation at BASF.pdf.pdf
+          href: pdf/Differentiating On Service Innovation at BASF.pdf
         - text: BASF Teaching Notes
           href: pdf/BASF Teaching Notes.docx.pdf
         - text: BASF Discussion Notes
