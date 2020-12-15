@@ -9,3 +9,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://lh3.googleusercontent.com/proxy/98mW8guw4LGyn7A_SRAUN-JJxOzFbKxb5P1rgw5GXIAKY8F4q72Rn2Q6QhaVVBWKnZIONBq7WNBcS42gvfsXAzJD36T5Rz-cQI-SVtVG7Fx5LqWzL_CvHcWK9LUSUw)
