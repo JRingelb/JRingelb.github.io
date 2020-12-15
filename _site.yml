@@ -4,6 +4,8 @@ description: |
   Josiah Ringelberg
 output_dir: "docs"
 navbar:
+  logo:
+    image: images/Personal image.jpg
   left:
     - text: "Home"
       icon: fa-home fa-lg
@@ -41,5 +43,11 @@ navbar:
           href: pdf/Resume.pdf
         - text: Auto Generate Resumes
           href: pdf/Resume.pdf
-output: distill::distill_article
-
+    - text: "Wumbology"
+      href: wumbo.html
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    css: css_cust/styles.css

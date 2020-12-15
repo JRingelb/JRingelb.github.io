@@ -1,0 +1,11 @@
+---
+title: "Wumbology"
+description: |
+  This section is dedicated to the study of wumbo and other memes.
+  ![](./images/wumbo.jpg)
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

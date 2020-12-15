@@ -2001,8 +2001,63 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  @import url("https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display&display=swap");
+  
+  /* Main text is monserrat*/
+  body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+    color: #444;
+  }
+  
+  /* Give headers playfair font */
+  h1, 
+  h2, 
+  h3, 
+  h4, 
+  h5, 
+  h6 {
+    font-family: "Playfair Display", serif;
+    color: #000;
+  }
+  
+  /* --------LOGO, three options-------------*/
+  
+  /*1: For logo immediately above TOC, use style rule below, otherwise comment out*/
+  
+  #TOC::before {
+    content: "";
+    display: block;
+    height: 200px;
+    margin: 2.75em 20px 40px 20px;
+    background-image: url("../images/Personal image.jpg");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  
+  
+  /* -------------Footer------------------*/
+  
+  .distill-site-footer {
+    color: #f7f7f7b0;
+    background-color: #1f1f1f;
+    margin-top: 0px;
+    padding: 50px 20px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: 12px;
+    
+  }
+  
+  
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="css_cust\styles.css" type="text/css"/>
 
 </head>
 
@@ -2019,6 +2074,9 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo">
+<img src="images/Personal%20image.jpg" alt="Logo"/>
+</a>
 <a href="index.html" class="title">Josiah Ringelberg</a>
 <a href="index.html" aria-label="Home">
 <i class="fa fa-home fa-lg" aria-hidden="true"></i>
@@ -2065,6 +2123,7 @@ Projects
 <a href="pdf/Resume.pdf">Auto Generate Resumes</a>
 </div>
 </div>
+<a href="wumbo.html">Wumbology</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2083,9 +2142,20 @@ Projects
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#the-majors-of-me">The Majors of Me</a><ul>
+<li><a href="#i-was-put-under-new-management">I Was Put Under New Management</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
 <h1 id="the-majors-of-me">The Majors of Me</h1>
 <h2 id="i-was-put-under-new-management">I Was Put Under New Management</h2>
 <p>Probably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she’s watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor… In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!</p>
+<p><img src="images/wife%20and%20I.JPG" /></p>
 <!-- ## Loosing My Religion -->
 <!-- Okay, this is completely a mislabeled section, but how else would I get your attention while referencing [R.E.M.](https://www.youtube.com/watch?v=xwtdhWltSIg). -->
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
@@ -2103,6 +2173,16 @@ Projects
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p>This website is the work of Josiah Ringelberg, a member of 7R's Inc.</p>
+<p>Please contact Josiah.Ringelberg@gmail.com for questions or to request our services. <!-- Add icon library --> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/josiah-ringelberg-8a02896b/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/JRingelb/" class="fa fa-github"></a>
+</p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
 
 </body>
