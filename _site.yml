@@ -37,12 +37,14 @@ navbar:
           href: pdf/Resume.pdf
     - text: "Projects"
       menu:
+        - text: WebScraping A JS Site
+          href: Developing-Content.html
         - text: School Utility Usage
-          href: pdf/Differentiating On Service Innovation at BASF.pdf
+          href: Developing-Content.html
         - text: Farm Subsidy Payouts
-          href: pdf/Resume.pdf
+          href: Developing-Content.html
         - text: Auto Generate Resumes
-          href: pdf/Resume.pdf
+          href: Developing-Content.html
     - text: "Wumbology"
       href: wumbo.html
 output: 
