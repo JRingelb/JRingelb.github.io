@@ -3,7 +3,6 @@
     {
       "path": "about.html",
       "title": "About Me",
-      "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nMathematician focused on developing reproducible analytical models using innovative data science tools. Interested in obtaining a data scientist position. Recently focused on incorporating automation, statistical rigor, and transparency to data analytics and corporate reporting. I am always eager to learn, and enjoy passing my knowledge on to others. Please do not hesitate to reach out!\r\n\r\n\r\n\r\n",
       "last_modified": "2020-12-14T20:10:06-05:00"
@@ -29,8 +28,8 @@
       "title": "Wumbology",
       "description": "This section is dedicated to the study of wumbo and other memes.\n![](./images/wumbo.jpg)",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-14T20:10:09-05:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-15T18:24:11-05:00"
     }
   ],
   "collections": []
