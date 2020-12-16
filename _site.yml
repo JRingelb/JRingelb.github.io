@@ -22,7 +22,7 @@ navbar:
         - text: BASF Case Study
           href: pdf/Differentiating On Service Innovation at BASF.pdf
         - text: BASF Teaching Notes
-          href: pdf/BASF Teaching Notes.docx.pdf
+          href: pdf/BASF Teaching Notes.pdf
         - text: BASF Discussion Notes
           href: pdf/Differentiating On Service Innovation at BASF Discussion Notes.pdf
         - text: Strategies and Time Allocation of Commercial Producers 
@@ -34,7 +34,9 @@ navbar:
         - text: No Time To Pie
           href: No_Time_To_Pie.html
         - text: But Does it make Toast?
-          href: pdf/Resume.pdf
+          href: Developing-Content.html
+        - text: An anogram for SAS
+        - href: Developing-Content.html
     - text: "Projects"
       menu:
         - text: WebScraping A JS Site
