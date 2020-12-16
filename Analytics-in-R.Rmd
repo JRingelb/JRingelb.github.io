@@ -1,0 +1,26 @@
+---
+title: "Analytics in R"
+output: html_document
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+---
+
+# Why its __R__ight
+
+
+## My experience with R
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/p8Py9C8iq2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Tips and Tricks
+
+## Graphs
+
+## HTML
+
+## CSS
+
+## Websites

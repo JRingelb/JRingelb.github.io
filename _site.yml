@@ -17,6 +17,8 @@ navbar:
       href: pdf/Resume.pdf
     - text: "Thesis"
       href: pdf/Thesis - Selected Chapters.pdf
+    - text: "R Tips & Analytics"
+      href: Analytics-in-R.html
     - text: "Articles"
       menu:
         - text: BASF Case Study
