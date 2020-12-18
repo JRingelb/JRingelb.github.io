@@ -1,0 +1,38 @@
+---
+title: "Analytics in R"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+---
+
+# Why its **R**ight
+
+Alright, a little humility goes a long way, so I should start by saying **R** isn't always right. In fact it can be catestrophically wrong. I've touched on it in another post (link post) but R is a tool. Tools are a reflection of their users. Give a chainsaw to a lumberjack and you can get an authentic rustic log cabin getaway to be the envy of all your corporate peers. Given me a chainsaw and you'll probably get an emergency room visit. Additionally, tools rarely shine outside the area they're built for! It may seem like hyperbole, but there are more than a few in corporate America who - when a salesmen sells them a chainsaw as a cutting edge technological innovation that will make the company lumberlytical - will understand only that the tool is meant for cutting things. Birthday parties were never the same at that corporation... 
+
+![](https://external-preview.redd.it/CZr76bJZ3kqfqETENFKvySbzj6B98tIOKuYWhI57eR0.jpg?auto=webp&s=3992890d73f33fa893e1739f06c8fa7354daa231)
+
+Tool context matters. **R** is really good for some things and not for others. Additionally, staff need to be able to grow. **R** is powerful, but its also pretty abstract - which means there's a learning curve. You can't put any modern day process or technology in front of a caveman and expect them to just magically figure it out, unless that process is car insurance I guess. Even then, they're still probably wondering what the #*&! a car is...
+
+![Geico: Not a paid sponsor of this blog](https://media4.giphy.com/media/4up3aiyLlAxb2/200.gif)
+
+So when is **R** right you might be asking. Well if you've read any of my blogs so far you should know that its usually about the third paragraph of a section that I say anything useful (if at all). From my experience, **R** has been core to analytics and reporting. I have not seen a tool that provides a better framework for general data science and is so easily connected to the tools used for presenting and reporting, particualarly to the crowds not comfortable data, science, and the people that enjoy data and science (i.e. business boys/girls).
+
+## My experience with R
+
+Base R is pretty cool, but the tidyverse is probably where beginners should start. Honestly, there's no better explanation for the tidyverse than the video below:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/p8Py9C8iq2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Alright, so now that you've watched this video I'll elaborate on why any serious data scientist will unquestionably use their celebrity hall pass on Hadley Wickham. Honestly, that should be the starting interview question for all data scientist positions, and if they answer with scarlet johansen or ryan renolds I can tell you definitively they've never seen a corporate dataset and have no idea what they're doing (Note: Ryan Renolds is technically not a right answer, but it is admittedly more understandable than others).
+
+# Tips and Tricks
+
+## Graphs
+
+## HTML
+
+## CSS
+
+## Websites
