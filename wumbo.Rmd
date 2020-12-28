@@ -11,17 +11,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## IDEAS
 
-![](https://lh3.googleusercontent.com/proxy/98mW8guw4LGyn7A_SRAUN-JJxOzFbKxb5P1rgw5GXIAKY8F4q72Rn2Q6QhaVVBWKnZIONBq7WNBcS42gvfsXAzJD36T5Rz-cQI-SVtVG7Fx5LqWzL_CvHcWK9LUSUw)
+![](http://www.poorlydrawnlines.com/wp-content/uploads/2017/07/an-idea.png)
 
-![](https://lh3.googleusercontent.com/proxy/95H-PDdMQq4Kzq0nMtLem4sFikUKBas_YhtUQZ6nYO7IP_tv1vwFBDzHN24SVTxkPoGtiKIvJ7sRWUFdQcEh_ukQkADOWDFrWrj_M3d05XJpzrnVXTU3jjfV85upc4E)
+![](http://www.poorlydrawnlines.com/wp-content/uploads/2019/08/ideas.png)
 
-![](https://lh3.googleusercontent.com/proxy/09nSotr--DejxFrjkMjqrHBZT_CLmcph106MTZw6vkGgqbZ4M6cgSXOghHVyv3X_HaXZBndro3afIpHwi1vrMGBWmhUyIDHgfzjAUibYQSS3jOsU8YSKkRxfntn7gQj4LbMCRQ)
+![](http://www.poorlydrawnlines.com/wp-content/uploads/2019/06/my-ideas.png)
 
-![](https://lh3.googleusercontent.com/proxy/Q6MnhuMAZ2Q3QvxR00b6hs7XAO0gEF9THmB5RUZP0VUnPl6G9SM3iJJTXfS4dINu0zlrUsFcRplPOwkA8X-Txb4idJ6mrvLTk8weaAMBHaPFSKE5E07gYsCBKYBx9PFd8V9d)
+![](http://www.poorlydrawnlines.com/wp-content/uploads/2020/04/so-many-ideas.png)
 
-![](https://lh3.googleusercontent.com/proxy/JXGH5Vu8_BU8L_KVDivR5vaiSHNJoeJbyXbfKuWok7pW3cOMXVjQTmd-gHQq8I7jFwvXsIcXmXd5cnvhXPxMpZsHKnS_AaeVn2SozDXMa0n28v93T9gYBNsdkDc)
+![](https://i.imgflip.com/zeym9.jpg)
 
-![](https://lh3.googleusercontent.com/proxy/Qreyy7gzVhigNrIzIWV_LPgXNxMoQGgUT5pCE7vguPEaM6WENMGnd-hTh4pEQmfOvkr_L8XB2BfuaJ4jFg-8_LelkJ-LoCEF2YIpSyTw-eTf_gjohfbpKKQicwebnw)
 
 ![](http://www.poorlydrawnlines.com/wp-content/uploads/2020/11/Thank_Me_Later2-1024x665.png)
 
