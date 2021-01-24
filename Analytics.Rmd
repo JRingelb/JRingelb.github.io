@@ -76,7 +76,7 @@ As for meaningful content, I would start by noting that the ggplot package is a 
 
 ## HTML/CSS
 
-I don't have much to say about html other than its a better word document. Most business analysts are comfortable with word, largely because they can edit it . However, word is an absolute nightmare. It really hard to have consistent formatting in word... both across documents and even within. Additionally, you inevitably end up with 15 documents following the format of report.docx, report 1.docx, report 2.docx, report final 2.docx, report real final.docx. Html with markdown allow you to version control your reports and apply consistent formatting easily because it separates the two concepts.
+I don't have much to say about html other than its a better word document. Most business analysts are comfortable with word, largely because they can edit it . However, word is an absolute nightmare. Its really hard to have consistent formatting in word... both across documents and even within. Additionally, you inevitably end up with 15 documents following the format of report.docx, report 1.docx, report 2.docx, report final 2.docx, report real final.docx. Html with markdown allow you to version control your reports and apply consistent formatting easily because it separates the two concepts.
 
 I believe this concept will continue to catch on in strong analytic/business departments. Interested readers can learn more about how css and html can be used in corporate reporting [here](http://freerangestats.info/blog/2017/09/09/rmarkdown)
 
