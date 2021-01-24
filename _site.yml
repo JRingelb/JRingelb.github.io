@@ -38,7 +38,11 @@ navbar:
         - text: But Does it make Toast?
           href: Developing-Content.html
         - text: An anogram for SAS
-        - href: Developing-Content.html
+          href: Developing-Content.html
+        - text: When to Call A PlumbeR
+          href: Developing-Content.html
+        - text: So You Want to Be A wRiter
+          href: Developing-Content.html
     - text: "Projects"
       menu:
         - text: WebScraping A JS Site

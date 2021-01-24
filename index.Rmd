@@ -25,6 +25,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # The Majors of Me
 
+## Fundemental Philosophies
+
+I consider myself a data scientist. People seem to argue the definition of data scientist with the same contention that they swear by apple or android. I beleive Josh Willis has one of the better definitions with:
+
+>Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
+
+One academic institution I came across described the role as:
+
+>an analytical expert who utilizes their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.
+
+With so many opinions out there, you'd have to be mad to add your own.... So, my definition of a data scientist would be:
+
+> A problem solver with knowledge of math, software, coding, data and abstraction.
+
+
+Solving Problems is More Important Than Design
+Design is More Important Than Coding
+Coding is More Important than the Language & Frameworks
+
 ## I Was Put Under New Management
 
 Probably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she's watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor... In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!
