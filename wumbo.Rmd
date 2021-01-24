@@ -2,7 +2,7 @@
 title: "Wumbology"
 description: |
   This section is dedicated to the study of wumbo and other memes.
-  ![](./images/wumbo.jpg)
+  ![](./images/memes/wumbo.jpg)
 ---
 
 ```{r setup, include=FALSE}
