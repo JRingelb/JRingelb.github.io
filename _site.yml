@@ -21,6 +21,8 @@ navbar:
       href: Analytics.html
     - text: "Articles"
       menu:
+        - text: rand
+          href: rmd/rand_test.html
         - text: BASF Case Study
           href: pdf/Differentiating On Service Innovation at BASF.pdf
         - text: BASF Teaching Notes

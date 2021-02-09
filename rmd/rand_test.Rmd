@@ -1,0 +1,21 @@
+---
+title: "No Time To Pie"
+description: |
+  With the holiday season, I thought I would take a moment to encourage healthy eating and graph choice.
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# "Notes on how to make a better pie chart"
+
+Ha! Again, a misleading headline has you thinking you're gonna get some pie tips. But if you want those, turn on your basic british bakeoff reality tv show or whatever it is my wife watches, your not getting it here. Sorry [Hugh Neutron](https://www.youtube.com/watch?v=2UoKdcS5GJY), but this is the exact opposite of that. I'm here to dash your graph in the sky dreams. But don't lose all hope, even if the dessert table is closed, the bar is open late (this will make sense later).
+
+<a href="https://imgflip.com/i/4opeep"><img src="https://i.imgflip.com/4opeep.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
