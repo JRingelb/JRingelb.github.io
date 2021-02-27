@@ -25,6 +25,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # The Majors of Me
 
+<div class="mermaid">
+graph LR;
+  A-->B;
+</div>
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+
 ## Fundemental Philosophies
 
 I consider myself a data scientist. People seem to argue the definition of data scientist with the same contention that they swear by apple or android. I beleive Josh Willis has one of the better definitions with:
