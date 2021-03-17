@@ -11,18 +11,16 @@ navbar:
       icon: fa-home fa-lg
       href: index.html
     - text: "About Me"
-      href: about.html
+      href: 000-about.html
   right:
     - text: "Resume"
       href: pdf/Resume.pdf
     - text: "Thesis"
       href: pdf/Thesis - Selected Chapters.pdf
     - text: "R Tips & Analytics"
-      href: Analytics.html
+      href: 100-R-Tips-and-Analytics.html
     - text: "Articles"
       menu:
-        - text: rand
-          href: rmd/rand_test.html
         - text: BASF Case Study
           href: pdf/Differentiating On Service Innovation at BASF.pdf
         - text: BASF Teaching Notes
@@ -36,30 +34,30 @@ navbar:
     - text: "Blogs"
       menu:
         - text: No Time To Pie
-          href: No_Time_To_Pie.html
+          href: 101-No-Time-To-Pie.html
         - text: But Does it make Toast?
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: An anogram for SAS
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: When to Call A PlumbeR
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: So You Want to Be A wRiter
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
     - text: "Projects"
       menu:
         - text: WebScraping A JS Site
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: School Utility Usage
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: Farm Subsidy Payouts
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
         - text: Auto Generate Resumes
-          href: Developing-Content.html
+          href: 001-Developing-Content.html
     - text: "Wumbology"
-      href: wumbo.html
+      href: 200-wumbo.html
 output: 
   distill::distill_article:
     toc: true
     toc_float: true
     toc_collapsed: true
-    css: css_cust/styles.css
+    css: css/styles.css

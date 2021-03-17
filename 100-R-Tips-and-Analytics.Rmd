@@ -1,10 +1,5 @@
 ---
 title: "Analytics in R: An Opinionated Viewpoint"
-output: 
-  distill::distill_article:
-    toc: true
-    toc_float: true
-    toc_collapsed: true
 ---
 
 # Why its **R**ight
@@ -62,7 +57,7 @@ I have circled around frameworks on this blog, so lets begin with one I found pa
 ```{r}
 #Badalytics
 #M3m32020
-library(esquisse)
+#library(esquisse)
 ```
 
 

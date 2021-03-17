@@ -31,9 +31,9 @@ graph LR;
 </div>
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-## Fundemental Philosophies
+## Fundamental Philosophies
 
-I consider myself a data scientist. People seem to argue the definition of data scientist with the same contention that they swear by apple or android. I beleive Josh Willis has one of the better definitions with:
+I consider myself a data scientist. People seem to argue the definition of data scientist with the same contention that they swear by apple or android. I believe Josh Willis has one of the better definitions with:
 
 >Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
 
@@ -45,14 +45,15 @@ With so many opinions out there, you'd have to be mad to add your own.... So, my
 
 > A problem solver with knowledge of math, software, coding, data and abstraction.
 
+I think its also important to contextualize the work of a data scientist. The following quote comes from Dave Farley, and although its context is for software development, it seems equally applicable to data science.
 
-Solving Problems is More Important Than Design
-Design is More Important Than Coding
-Coding is More Important than the Language & Frameworks
+>Solving Problems is More Important Than Design
+>Design is More Important Than Coding
+>Coding is More Important than the Language & Frameworks
 
 ## I Was Put Under New Management
 
-Probably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day british bakeoff or whatever MTV reality TV show she's watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor... In anycase, we have been blessed by an amazing first year of marriage, and I look forward to the future!
+Probably not the way my wife would like me to phrase our marriage, but she is terribly bored by anything I do involving code, math, or conversation not pertaining to 90-day British Bake-off or whatever MTV reality TV show she's watching. Admittedly, we have rather different hobbies, but the last year of marriage has been amazing. She makes me a better person, and that makes me a better coder and mathematician. She has also made me realize how much cleaner an apartment can be when you put your clothes in a hamper rather than the floor... In any case, we have been blessed by an amazing first year of marriage, and I look forward to the future!
 
 ![](./images/wife and I.JPG)
 
@@ -65,8 +66,8 @@ Probably not the way my wife would like me to phrase our marriage, but she is te
 
 As of the first week of 2021, I have seriously contemplated transitioning this website to something more useful and relatable to the general public - a repository of cat pictures. You may be thinking, but the internet is already 80% cat pictures and 20% human debauchery, do we really need more cats. 
 
-I could craft a convincing arguement, but as Fred Barnard said, a picture's worth a thousand words.
+I could craft a convincing argument, but as Fred Barnard said, a picture's worth a thousand words.
 
 ![](./images/IMG_1556.jpg)
 
-What? No rebuttle? Cat got your tongue?
+What? No rebuttal? Cat got your tongue?

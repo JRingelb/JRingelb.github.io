@@ -1,0 +1,16 @@
+---
+title: "About Me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+#https://www.datarobot.com/blog/drag-and-drop-is-not-enough/
+#https://medium.com/@peter.salinas.ino
+#https://towardsdatascience.com/ai-is-a-bubble-everyone-is-bad-at-data-science-f368e3efa342
+#https://www.experfy.com/blog/bigdata-cloud/hiring-data-scientists-step-1-stop-looking-for-data-scientists/
+
+```
+
+
+Mathematician focused on developing reproducible analytical models using innovative data science tools. Interested in obtaining a data scientist position. Recently focused on incorporating automation, statistical rigor, and transparency to data analytics and corporate reporting. I am always eager to learn, and enjoy passing my knowledge on to others! Feel free to contact me with question!
